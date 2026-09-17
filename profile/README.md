@@ -9,6 +9,10 @@ Indie software & games studio. We build small, focused tools and games — fast,
 - **[howsoutside.com](https://howsoutside.com)** — weather, answered the way you'd ask it: how's outside?
 - **[astradays.com](https://astradays.com)** — daily horoscopes, on the web and mobile.
 
+## Games
+
+- **[Shelly Gems](https://shellygems.com)** — a cozy gem merge puzzle with Shelly the turtle. Coming soon to Google Play.
+
 ---
 
 🌐 [sooslabs.com](https://sooslabs.com) · ✉️ hello@sooslabs.com
