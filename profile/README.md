@@ -12,7 +12,7 @@ Indie software & games studio. We build small, focused tools and games — fast,
 
 ## Games
 
-- **[Shelly Gems](https://shellygems.com)** — a cozy gem merge puzzle with Shelly the turtle. Out now on RuStore, coming soon to Google Play.
+- **[Shelly Gems](https://shellygems.com)** — a cozy gem merge puzzle with Shelly the turtle. Coming soon to Google Play.
 - **[Swarmline](https://swarmline.app)** — a squad holds a line against a swarm; you decide where it stands. Coming soon to Google Play.
 
 ---
